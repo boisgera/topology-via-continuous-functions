@@ -35,6 +35,11 @@ TODO:
 
   - explain/prove why it works (wrt the "classic" definition)
 
+  - here we use $S$ as a pivot space ; what makes it work? 
+    I mean are there any other pivot set that could be used ($\mathbb{R}$
+    for example? Can we do the same thing but with a less exotic space ; 
+    Hausdorff space for example?).
+
   - open sets (via charac functions), rebuild other topological concepts
 
 
